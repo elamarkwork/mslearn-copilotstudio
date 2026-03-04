@@ -208,16 +208,16 @@ Let's see if the file you uploaded is finished indexing. If it is not, take a co
 # Note from Mark:
 ## The following part will not work for you because of the licensing restrictions of the lab.
 ## I'd add it's not likely you can do it with your employer either as they will prevent you from creating a public facing website
-~~## Test your agent~~
+~~Test your agent~~
 ~~Now that you have a working agent, you can test it with your demo website to check that it is ready for people to use.~~
 
 ~~1. Select the **Channels** tab.~~
 
-~~1. Select the **Demo website** channel.~~
+~~2. Select the **Demo website** channel.~~
 
-~~1. Select **Open demo website**.~~
+~~3. Select **Open demo website**.~~
 
-~~1. Enter the following prompt:~~
+~~4. Enter the following prompt:~~
 
 ~~    ```prompt~~
 ~~    What's the expense limit for a hotel stay?~~
@@ -225,12 +225,12 @@ Let's see if the file you uploaded is finished indexing. If it is not, take a co
 
 ~~    The response should be based on the information in the knowledge source you uploaded, and include a citation reference.~~
 
-~~1. Try asking some follow-up questions, such as:~~
+~~5. Try asking some follow-up questions, such as:~~
 ~~    - `What about flights?`~~
 ~~    - `What guidelines are there for entertainment expenses?`~~
 ~~    - `What are the expense limits for meals?`~~
 
-~~1. Try a few more questions and view the responses from your agent. It will have limited functionality, but should be able to provide relevant answers to questions about expense claims.~~
+~~6. Try a few more questions and view the responses from your agent. It will have limited functionality, but should be able to provide relevant answers to questions about expense claims.~~
 ## Challenge
 
 Now that you’ve seen how to use Copilot Studio to create a simple agent, it’s
