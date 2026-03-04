@@ -205,11 +205,11 @@ Let's see if the file you uploaded is finished indexing. If it is not, take a co
 
     > **Note**: If no relevant answer is found in the custom knowledge sources you have added, the topic may use the knowledge inherent in the language model to provide a more generic answer. You can configure the topic to restrict its search to specific knowledge stores if you want greater control over the generative AI responses it returns.
 
-# *****************************************************
-# Note from Mark:
+
+# ****** Note from Mark: ******
 The following part will not work for you because of the licensing restrictions of the lab.
 I'd add it's not likely you can do it with your employer either as they will prevent you from creating a public facing website
-# *****************************************************
+
 
 ~~Test your agent~~
 ~~Now that you have a working agent, you can test it with your demo website to check that it is ready for people to use.~~
