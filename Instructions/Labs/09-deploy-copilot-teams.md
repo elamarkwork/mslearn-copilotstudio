@@ -4,8 +4,13 @@ lab:
     module: 'Create an agent with Microsoft Copilot Studio and Dataverse for Teams'
 ---
 
-# Deploy agent to Microsoft Teams
+# *****************************************************
+# Note from Mark:
+You won't be able to complete this successfully because of licensing restrictions. However, give it a go, read the instructions to understand the process. You might be able to do this in your employer's tenancy depending on whether you have a license.
+# *****************************************************
 
+
+# Deploy agent to Microsoft Teams
 ## Scenario
 
 In this exercise, you will:
