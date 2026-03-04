@@ -205,9 +205,12 @@ Let's see if the file you uploaded is finished indexing. If it is not, take a co
 
     > **Note**: If no relevant answer is found in the custom knowledge sources you have added, the topic may use the knowledge inherent in the language model to provide a more generic answer. You can configure the topic to restrict its search to specific knowledge stores if you want greater control over the generative AI responses it returns.
 
+# *****************************************************
 # Note from Mark:
-## The following part will not work for you because of the licensing restrictions of the lab.
-## I'd add it's not likely you can do it with your employer either as they will prevent you from creating a public facing website
+The following part will not work for you because of the licensing restrictions of the lab.
+I'd add it's not likely you can do it with your employer either as they will prevent you from creating a public facing website
+# *****************************************************
+
 ~~Test your agent~~
 ~~Now that you have a working agent, you can test it with your demo website to check that it is ready for people to use.~~
 
@@ -219,11 +222,11 @@ Let's see if the file you uploaded is finished indexing. If it is not, take a co
 
 ~~4. Enter the following prompt:~~
 
-~~    ```prompt~~
-~~    What's the expense limit for a hotel stay?~~
-~~    ```~~
 
-~~    The response should be based on the information in the knowledge source you uploaded, and include a citation reference.~~
+~~What's the expense limit for a hotel stay?~~
+
+
+~~The response should be based on the information in the knowledge source you uploaded, and include a citation reference.~~
 
 ~~5. Try asking some follow-up questions, such as:~~
 ~~    - `What about flights?`~~
