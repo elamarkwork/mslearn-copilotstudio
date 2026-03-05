@@ -131,7 +131,7 @@ In this exercise, you will create an agent flow that retrieves a property based 
 
 1. Select **Save draft** near the upper-right of the page.
 
-1. Select **Publish**.
+<!--1. Select **Publish**.
 
 1. In the **Your agent flow published successfully!** pop-up, select **Go back to agent**.
 
@@ -145,7 +145,7 @@ In this exercise, you will create an agent flow that retrieves a property based 
 
 1. Select the **Tools** tab and see the Get Property flow you created.
 
-1. Select **Publish**.
+1. Select **Publish**.-->
 
 ### Task 1.4 - Add the Get Property tool to the topic
 
@@ -241,7 +241,7 @@ Microsoft Copilot Studio can create data in Microsoft Dataverse using agent flow
 
 1. Select **Save draft** in the upper-right of the window.
 
-1. Wait for the save to complete, then select **Publish**.
+<!--1. Wait for the save to complete, then select **Publish**.-->
 
 ### Task 2.2 - Validate your tools
 
