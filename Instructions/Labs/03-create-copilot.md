@@ -38,7 +38,7 @@ In this exercise, you will access the Microsoft Copilot Studio portal, select th
 
 ### Task 1.1 – Create an agent in the Bookings solution
 
-1. In a new browser tab, navigate to `https://copilotstudio.microsoft.com`.
+1. In a new browser tab, navigate to ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you**.
 
 1. Make sure that you are in the appropriate environment.
 

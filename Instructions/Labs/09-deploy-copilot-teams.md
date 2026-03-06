@@ -6,7 +6,7 @@ lab:
 
 
 # ****** Note from Mark: ******
-You won't be able to complete this successfully because of licensing restrictions. However, give it a go, read the instructions to understand the process. You might be able to do this in your employer's tenancy depending on whether you have a license.
+You won't be able to complete this successfully because of licensing restrictions. However, give it a go, read the instructions to understand the process. You might be able to do this in your employer's tenancy depending on whether you have an appropriate license.
 
 
 
@@ -37,7 +37,7 @@ This exercise will take approximately **10** minutes to complete.
 
 ### Task 1.1 - Publish the latest content
 
-1. Navigate to the Microsoft Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. Navigate to the Microsoft Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Select **Agents** from the left navigation pane.
 

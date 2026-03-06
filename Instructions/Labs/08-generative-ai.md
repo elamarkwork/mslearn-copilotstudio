@@ -32,7 +32,7 @@ This exercise will take approximately **20** minutes to complete.
 
 ### Task  - Configure authentication
 
-1. If it's not still open, go to the Microsoft Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. If it's not still open, go to the Microsoft Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Open the **Real Estate Booking Service** agent.
 

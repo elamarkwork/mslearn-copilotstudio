@@ -36,7 +36,7 @@ Microsoft Copilot Studio uses entities to understand user intent. There are many
 
 ### Task 1.1 - View prebuilt entities
 
-1. Navigate to the Microsoft Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. Navigate to the Microsoft Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Select **Agents** from the left navigation pane.
 

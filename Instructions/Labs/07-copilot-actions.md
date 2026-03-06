@@ -37,7 +37,7 @@ In this exercise, you will create an agent flow that retrieves a property based 
 
 ### Task 1.1 - Create the Get Property agent flow
 
-1. Navigate to the Microsoft Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. Navigate to the Microsoft Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Select **Agents** from the left navigation pane.
 
@@ -302,6 +302,8 @@ A Message node has been created. Revise the message as desired to let the user k
 1. Enter `Tomorrow 2:00 PM` to the **What date and time do you want to see the property?** prompt.
 
 A Booking Request should be created based on the information you have given the agent.
+
+** **note from Mark:** ** In my testing it didn't quite work. If that happens  try to debug the issue. It's a great way to learn.
 
 ### Task 3.2 - Verify the booking request
 

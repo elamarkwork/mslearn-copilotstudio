@@ -53,7 +53,7 @@ In this exercise, you will review existing topics and disable one that is not re
 
 ### Task 1.1 – Disable topics
 
-1. Navigate to the Microsoft Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. Navigate to the Microsoft Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Select **Agents** from the left navigation pane.
 

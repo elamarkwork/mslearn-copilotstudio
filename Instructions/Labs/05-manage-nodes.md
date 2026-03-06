@@ -43,7 +43,7 @@ In this exercise, you will create the **Book Showing** topic and add trigger phr
 
 ### Task 1.1 - Create a topic from blank
 
-1. Navigate to the Copilot Studio portal `https://copilotstudio.microsoft.com` and ensure you are in the appropriate environment.
+1. Navigate to the Copilot Studio portal ~~`https://copilotstudio.microsoft.com`~~ **the url I gave you** and ensure you are in the appropriate environment.
 
 1. Select **Agents** from the left navigation pane.
 
