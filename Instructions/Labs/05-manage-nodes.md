@@ -87,7 +87,7 @@ Enable variables to be be accessed by other topics.
 
 1. Select and expand **Topic** variables.
 
-1. Select the right-hand check boxes for the three topic variables. This enables the variables in this topic to be available for other topics to use.
+1. Select the right-hand check boxes for the three topic variables. This enables the variables in this topic to be available for other topics to use. **(Note from Mark: If these are missing you will need to add them manually)**
 
     ![Screenshot of the variables pane.](../media/variables-pane.png)
 
