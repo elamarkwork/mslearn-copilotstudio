@@ -243,6 +243,8 @@ Microsoft Copilot Studio can create data in Microsoft Dataverse using agent flow
 
 1. Wait for the save to complete, then select **Publish**.
 
+1. **(Note from Mark: You'll notice that the flow has the name 'untitled'. You can contunie the lab using that name. You might like to change it to a better name at the end of the lab)**
+
 ### Task 2.2 - Validate your tools
 
 1. Return to your **Real Estate Booking Service** agent.
