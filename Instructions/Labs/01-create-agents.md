@@ -75,7 +75,7 @@ In this exercise, you will create an agent by using a template to create the age
 
 1. Validate that the selected *Solution* is **Lab Exercises** and the *Schema name* prefix is **fab** and select **Cancel**.
 
-1. In the upper-right of the page, select **Create**.
+1. In the upper-right of the page, select **Create**. **(Note from Mark: Wait until the agent status says "ready")**
 
 1. In the **Overview** tab, review the name, description, and agent instructions.
 
@@ -308,7 +308,7 @@ In this exercise, you will create a new agent using natural language to answer q
 
 1. Select **Save**.
 
-1. Select **Open demo website**.
+1. Select **Open demo website**. 
 
 1. Enter the following prompt:
 
@@ -316,7 +316,7 @@ In this exercise, you will create a new agent using natural language to answer q
    What welfare and assistance can I claim for?
    ```
 
-   The response should reference information from the configured knowledge source and may include citations or source references.
+   The response should reference information from the configured knowledge source and may include citations or source references. **(Note from Mark: This didn't work for me because of security, but it's easy to see how it works)**
 
 1. Try a few more questions and view the responses from your agent. It will have limited functionality, but should be able to provide relevant answers to questions about benefits.
 
