@@ -12,6 +12,8 @@ lab:
 
 # Manage topics in Copilot Studio agents
 
+## Duration: Note from Mark...20 minutes seems plenty of time
+
 ## Scenario
 
 In this exercise, you will:
@@ -24,7 +26,7 @@ In this exercise, you will:
 - Create and edit nodes
 - Test the agent
 
-This exercise will take approximately **45** minutes to complete.
+
 
 ## What you will learn
 
