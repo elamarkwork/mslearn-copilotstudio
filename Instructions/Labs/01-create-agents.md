@@ -25,7 +25,7 @@ In this exercise, you will:
 - Add a public website as a knowledge source
 - Publish the agent and test with the Demo website
 
-This exercise will take approximately **45** minutes to complete.
+This exercise will take approximately **45** minutes to complete. (**Note from Mark : 20 minutes seems plenty of time**)
 
 ## What you will learn
 
