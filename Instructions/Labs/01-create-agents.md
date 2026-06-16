@@ -13,6 +13,8 @@ lab:
 
 # Create agents with Copilot Studio
 
+## Duration:  Note from Mark : 20 minutes seems plenty of time
+
 ## Scenario
 
 In this exercise, you will:
