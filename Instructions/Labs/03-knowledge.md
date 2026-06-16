@@ -25,7 +25,7 @@ In this exercise, you will:
 - Configure the Create generative answers node
 - Publish the agent to Microsoft Teams
 
-This exercise will take approximately **60** minutes to complete.
+This exercise will take approximately **60** minutes to complete.  (**Note from Mark : 35 minutes seems plenty of time**)
 
 ## What you will learn
 
@@ -219,11 +219,11 @@ In this exercise, you will add knowledge sources to the agent to ground the agen
 
 1. For *Enter description*, enter `Minor, necessary business costs that arise in addition to a primary expense such as tips or fees.`.
 
-1. Select **Save**.
+1. Select **Save**. (**Note from Mark : After pressing Add**)
 
 ### Task 3.5 – Check in on your file indexing
 
-Check whether the uploaded file has completed indexing. If indexing is still in progress, wait a few minutes and refresh the page before continuing.
+Check whether the uploaded file has completed indexing. If indexing is still in progress, wait a few minutes and refresh the page before continuing. (**Note from Mark : It's only the word document named Expenses_Policy.docx you're waiting for to be ready**)
 
 1. Select the **Knowledge** tab.
 
@@ -287,7 +287,7 @@ In this exercise you will configure generative AI for the agent and for the gene
 
 1. In the upper-right of the Settings page, select **X** to close settings.
 
-1. Test the agent using the prompts from the previous exercise. The file and Dataverse knowledge sources will be used but the public website will not be used when generating a response.
+1. Test the agent using the prompts from the previous exercise. The file and Dataverse knowledge sources will be used but the public website will not be used when generating a response. **( Note from Mark : I think this is incorrect. The setting configuration indicates that the agent should not use the knowledge on which is was trained and it should not do a web search. The public website IS used because it is one of the sources defined in the knowledge tab )**
 
 ### Task 4.2 – Configure generative answers node
 
@@ -343,7 +343,7 @@ In this exercise you will configure generative AI for the agent and for the gene
 
 1. Select **Edit** for **Data sources**.
 
-1. Disable **Web search**.
+1. Disable **Web search**. **(Note from Mark : It was already disabled when I did this lab. What the instruction should say is 'untick the checkbox next to Travel, Gift and Car expenses'  )**
 
 1. Select **Save**.
 
@@ -407,7 +407,7 @@ In this exercise, you will publish the agent to Microsoft Teams, first ensuring 
 
 1. In the pop-up, select **Cancel** and select **Use the web app instead**.
 
-1. Select **Add** to add the agent to Teams.
+1. Select **Add** to add the agent to Teams. **(Note from Mark : It might take several seconds for this button to appear)**
 
    ![Screenshot of dialog to add the app to Teams.](../media/channel-teams-app.png)
 
