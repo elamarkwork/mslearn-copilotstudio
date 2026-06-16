@@ -59,6 +59,7 @@ Before you start the lab exercises, you must create a development environment fo
    ![Environment created in the Power Platform Admin center.](../media/environment-created.png)
 
 1. In a new browser tab, navigate to `https://copilotstudio.microsoft.com/` and sign in if prompted.
+**(Note from Mark: If it hangs, get the id of your environment from the PowerPlatform admin centre and use the url https://copilotstudio.microsoft.com/environments/your-environment-id-here)**
 
 1. If prompted, select **Get Started** and keep the default country or region settings.
 
