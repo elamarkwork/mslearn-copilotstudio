@@ -12,8 +12,6 @@ lab:
 
 # Manage topics in Copilot Studio agents
 
-## Duration: Note from Mark...20 minutes seems plenty of time
-
 ## Scenario
 
 In this exercise, you will:
@@ -26,7 +24,7 @@ In this exercise, you will:
 - Create and edit nodes
 - Test the agent
 
-
+This exercise will take approximately **45** minutes to complete. (**Note from Mark : 20 minutes seems plenty of time**)
 
 ## What you will learn
 
@@ -66,6 +64,8 @@ Topics are especially useful when you need to:
 - Control the order of questions
 - Store responses in variables
 - Ensure predictable outcomes
+
+This exercise will take approximately **45** minutes to complete. (**Note from Mark : 20 minutes seems plenty of time**)
 
 ## Exercise 1 - Create an agent
 
