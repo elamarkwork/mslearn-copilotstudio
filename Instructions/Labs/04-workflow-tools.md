@@ -186,7 +186,7 @@ In this exercise, you create a workflow that sends a message to Microsoft Teams.
 
 1. Open the **Task Analysis** agent.
 
-1. Select the **Tools** tab.
+1. Select the **Tools** tab. **(Note from Mark : 'tools' up at the top, not the one on the left)**
 
 1. Select **+ Add a tool**.
 
@@ -248,7 +248,7 @@ In this exercise, you create a workflow that sends a message to Microsoft Teams.
 
 1. In a new browser tab, navigate to `https://teams.cloud.microsoft/` and sign in if prompted.
 
-1. Navigate to the Team and channel you selected earlier in the workflow and verify the task analysis summary was posted to the Teams channel.
+1. Navigate to the Team and channel you selected earlier in the workflow and verify the task analysis summary was posted to the Teams channel. **(Note from Mark : The first test for me didn't post anything to Teams. I started a new test session and it worked)**
 
    ![Screenshot of the message in Teams.](../media/workflow-test-agent-teams.png)
 
@@ -321,7 +321,7 @@ In this exercise, you will use Copilot to create a topic from a description, cre
 
    ![Screenshot of tasks in a file in OneDrive.](../media/onedrive-tasks.png)
 
-1. Select the rows and columns containing data (A1:F5), and in the toolbar select the **Insert** tab, and select **Table**, then select **OK**.
+1. Select the rows and columns containing data (A1:F5) **(Note from Mark : You select all the rows and columns)**, and in the toolbar select the **Insert** tab, and select **Table**, **(Note from Mark : Be sure to tick the box 'my table has headers')** then select **OK**.
 
 1. Select the **Table Design** tab and in the upper-left change the name of the table from *Table1* to **`Tasks`**.
 
@@ -474,7 +474,7 @@ In this exercise, you will use Copilot to create a topic from a description, cre
 
    ![Screenshot of adding a workflow as a tool to a topic.](../media/topic-add-tool.png)
 
-1. Select **Save**.
+1. Select **Save**. **(Note from Mark : I think there's an instruction missing before you can press save. Make sure that the input for the tool node you just added has been set to the Global.Priority variable. This can't be done directly because the Global.Priority variable is the Type 'Choice' where the flow expects 'string. To get around that add another node to set a variable named t_Priority to the formula Text(Global.Priority)...Make sure you've chosen the formula tab. Then t_Priority variable can be passed to the flow node as a string input parameter)**
 
 ### Task 3.6 - Update agent instructions with the topic
 
@@ -484,7 +484,7 @@ In this exercise, you will use Copilot to create a topic from a description, cre
 
 1. Under the *## Skills* in the agent instructions, add the following to the final step: `Use the ` and type `/` and select the **Priority Tasks** topic and then enter ` to get the task list.`
 
-1. Select **Save**.
+1. Select **Save**. 
 
 ### Task 3.7 - Test the workflow tools
 
@@ -504,9 +504,11 @@ In this exercise, you will use Copilot to create a topic from a description, cre
 
 1. If prompted to connect to **Excel Online (Business)**, select **Allow**.
 
-1. The **test** pane should contain two tasks.
+1. The **test** pane should contain two tasks.    **(Note from Mark : This did not work for me, it was as if it couldn't inpterpret the output from the flow. I added a message node to the bottom of the topic to show the variable Tasklist and it then all worked. Go figure...flakey as)**
 
    ![Screenshot of the workflow tool used when testing the agent.](../media/workflow-test-topic-tool.png)
+
+
 
 1. In a new browser tab, navigate to `https://teams.cloud.microsoft/` and sign in if prompted.
 
