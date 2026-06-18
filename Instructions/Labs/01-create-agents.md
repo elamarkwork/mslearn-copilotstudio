@@ -318,7 +318,7 @@ In this exercise, you will create a new agent using natural language to answer q
    What welfare and assistance can I claim for?
    ```
 
-   The response should reference information from the configured knowledge source and may include citations or source references. **(Note from Mark: This didn't work for me because of security, but it's easy to see how it works)**
+   The response should reference information from the configured knowledge source and may include citations or source references. **(Note from Mark: This work for you if you attempt to access the website with a browser outside the lab environment)**
 
 1. Try a few more questions and view the responses from your agent. It will have limited functionality, but should be able to provide relevant answers to questions about benefits.
 
